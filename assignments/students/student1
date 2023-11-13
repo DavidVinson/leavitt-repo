@@ -1,0 +1,33 @@
+---
+
+| HTML, CSS, & JS                                          | Complete? |
+| -------------------------------------------------------- | :-------: |
+| HTML: Change the title to "Hello World"                  |     -     |
+| HTML: Create an `<h1>` containing your name              |     -     |
+| HTML: Include an image                                   |     -     |
+| HTML: Create an unordered list with 3 list items         |     -     |
+| HTML: Create a footer                                    |     -     |
+| HTML: Put a `<p>` with your favorite quote in the footer |     -     |
+| CSS: Give your page a fun background color               |     -     |
+| CSS: Make the header and footer a different color        |     -     |
+| CSS: Center the h1 with your name                        |     -     |
+| CSS: Make your p tag a different color and italic        |     -     |
+| CSS: Put a border around your image                      |     -     |
+| CSS: Change the font-family of your list                 |     -     |
+| JS: JS contains console log                              |     -     |
+| Runs in browser without console errors                   |     -     |
+
+| Checkpoints                                            | Complete? |
+| ------------------------------------------------------ | :-------: |
+| Checkpoints: Listing files is `ls`                     |     yes    |
+| Checkpoints: Changing directories is `cd`              |     yes    |
+| Checkpoints: Changing to parent directory is `cd ..`   |     yes    |
+| Checkpoints: New folder is `mkdir`                     |     yes/feedback: use lowercase cmds, ie mkdir |
+| Checkpoints: Description of `ls` command               |     yes    |
+| Checkpoints: Creating new file is `touch`              |     yes    |
+| Checkpoints: Git version                               |     yes    |
+| Checkpoints: Description of `git status` command       |     yes    |
+| Checkpoints: Description of `git add .` command        |     yes/feedback: git add . stages all files in a dir    |
+| Checkpoints: Command to push is `git push origin main` |     yes    |
+
+---
