@@ -1,0 +1,197 @@
+## Week 2:
+---
+
+## Assignment Links:
+
+- Starting repo: [repo](https://github.com/PrimeAcademy/prime-pw-week-2-assignment)
+
+
+### Assignment:
+
+- Base
+    - Does it use let/const, and no use of var?
+    - Does it use the variable types appropriately (string, boolean, number)?
+    - Are all questions answered with the right syntax?
+    - Are there optional questions in HTML?
+    - Does it run in the browser without errors?
+- Stretch
+    - Do conditionals include all cases?
+
+### General:
+
+- Was the assignment forked?
+- Was the correct repo turned in?
+- Are there at least 2 commits?
+
+### Copy/Paste Starter Markdown:
+There are two assignments in the portal for this week.
+
+### Part 1, `aboutMe.js`
+
+```
+Hey ___. General comments about the project. 
+
+
+---
+| Part 1 -- aboutMe.js | Complete? |
+| --- | :---: |
+| Use of let/const, no use of var | - |
+| Appropriate use of variable types: string, boolean, number | - |
+| First Name assigned to String | - |
+| Last Name assigned to String | - |
+| Full Name assigned to string concatenation | - |
+| Full Name logged | - |
+| Lucky Number assigned to Number | - |
+| Name and Lucky Number sentence logged | - |
+| Adventurous assigned to Boolean | - |
+| Food assigned to String | - |
+| Pets assigned to Number | - |
+| Friends Pets assigned to Number | - |
+| Add two to Pets | - |
+| Allowed Pets assigned to a constant | - |
+| Correctly log based on adventurous boolean | - |
+| Runs in browser without console errors | - |
+| "Roll the dice" conditional includes lucky number and adventurous checks | - |
+| Pets conditional checks less than, equal and greater than | - |
+| OPTIONAL: Questions in HTML | - |
+| STRETCH: Correctly log the greater value (pets or friends pets) | - |
+| STRETCH: Correctly log pets or friends pets if they are equal | - |
+| STRETCH: Conditionals written with correct syntax | - |
+| STRETCH: Switch statement logs the correct value| - |
+| STRETCH: Ternary written with correct syntax and logic | - |
+
+___
+### Notes:
+
+Notes on items above.
+
+---
+| General Items | Complete? |
+| --- | :---: |
+| The assignment repo was forked | - |
+| The correct repo was turned in | - |
+| GitHub config correct | - |
+| At least 2 commits | - |
+| Code is correctly formatted | - |
+
+---
+### Notes:
+
+Notes on items above.
+
+```
+
+### Part 2, `describe.js`
+```
+
+---
+| Part 2 -- describe.js | Complete? |
+| --- | :---: |
+| Question 1 Description Accurate and correct value of console.log | - |
+| Question 2 Description Accurate and correct value of console.log | - |
+| Question 3 Description Accurate and correct value of console.log | - |
+| Question 4 Found swapped values of `colorOne` and `colorTwo` | - |
+| Question 4 Found Missing Assignment of `colorTwo` | - |
+| Question 5 Found logical error of OR instead of AND | - |
+| Question 6 Swapped console.log statements (initially logs 'no entry' not 'enter') | - |
+
+
+___
+### Notes:
+
+Notes on items above.
+
+```
+
+## Stretch Solutions
+
+Switch statements look at a single variable, and execute different code based on the value of that one variable. Here's how we'd solve that stretch goal:
+
+```js
+// Take a look at the `luckyNumber` variable
+switch (luckyNumber) {
+  // If the value is 1...
+  case 1:
+    // ...then run this code:
+    console.log('First is the worst');
+    // Always include a `break;` for each case
+    // otherwise it will continue running the code
+    // for `case 2`!
+    break;
+  
+  case 2:
+    console.log('Second is the best');
+    break;
+  
+  case 3:
+    console.log('Third is the one with the polka dot dress');
+    break;
+  
+  // We can also define a "default" case
+  // that runs if none of the other cases match
+  default:
+    console.log('Luck is what happens when preparation meets opportunity');
+    break;
+}
+```
+
+Note that we could do the same thing with regular `if/else` statements:
+
+```js
+if (luckyNumber === 1) {
+  console.log('First is the worst');
+}
+else if (luckyNumber === 2) {
+  console.log('Second is the best');
+}
+else if (luckyNumber === 3) {
+  console.log('Third is the one with the polka dot dress');
+}
+else {
+  console.log('Luck is what happens when preparation meets opportunity');
+}
+```
+
+Just two different ways to accomplish the same goal. Try playing around with switch statements this week and see how they feel 🙂
+
+## Feedback Snippets
+
+### Let vs Const
+
+`let` will absolutely work here, but as you're getting further along, if you're creating things that never change, a `const` is probably more appropriate. It indicates to someone reading your code that they don't need to worry about that particular thing changing. As an example, your first name will be the same for this entire file, so I would have written it as:
+
+```
+const firstName = 'Luke';
+```
+
+### Redundant Truthy Checking
+
+In this particular case, I think you might find it interesting that
+
+```
+if (adventurous === true){
+```
+
+has the same result as
+
+```
+if (adventurous){
+```
+
+`adventurous === true` results in `true === true` which results in `true`, so it's just a shorter way of writing it. (For functionality, there is nothing wrong with your code, just something I thought might be interesting to you.)
+
+
+### Quote Style Guide
+
+- We recommend `'` instead of `"` in your JavaScript.
+- We recommend `"` instead of `'` in your HTML.
+
+### GitHub Config
+Also note that your GitHub config is not correct. Here is an example from my personal setup.
+```
+git config --global user.name "mbMosman"
+git config --global user.email "mbmosman@users.noreply.github.com"
+```
+Make sure to update this with both your GitHub username and the email GitHub has for you, as both must match for your commits to register correctly to your account. Then run the commands in the Mac terminal. If you use multiple computers, make sure to do this on each of them. 
+
+Once this is done you should see your profile image, not the GitHub Octocat icon, on new commits next to your name in the most recent commit (blue bar above the list of project files). Note that old commits won't change, but new ones should reflect the updated config. This is important for showing the work that you are doing on your GitHub profile. If you have any questions on this, Slack me and I'll help you out.
