@@ -8,14 +8,14 @@
 | HTML: Create an unordered list with 3 list items         |     yes     |
 | HTML: Create a footer                                    |     yes     |
 | HTML: Put a `<p>` with your favorite quote in the footer |     yes     |
-| CSS: Give your page a fun background color               |     -     |
-| CSS: Make the header and footer a different color        |     -     |
-| CSS: Center the h1 with your name                        |     -     |
-| CSS: Make your p tag a different color and italic        |     -     |
-| CSS: Put a border around your image                      |     -     |
-| CSS: Change the font-family of your list                 |     -     |
-| JS: JS contains console log                              |     -     |
-| Runs in browser without console errors                   |     -     |
+| CSS: Give your page a fun background color               |     yes    |
+| CSS: Make the header and footer a different color        |     yes    |
+| CSS: Center the h1 with your name                        |     yes    |
+| CSS: Make your p tag a different color and italic        |     yes     |
+| CSS: Put a border around your image                      |     yes/feedback: this would be a good use of combining css, ie {border: 5px solid black;}. all is good, just fyi    |
+| CSS: Change the font-family of your list                 |     yes     |
+| JS: JS contains console log                              |     yes     |
+| Runs in browser without console errors                   |     yes    |
 
 | Checkpoints                                            | Complete? |
 | ------------------------------------------------------ | :-------: |
