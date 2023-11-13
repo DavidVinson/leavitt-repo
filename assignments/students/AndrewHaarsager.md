@@ -1,4 +1,8 @@
+```
 ---
+Hey Andrew, Welcome to week 1 feedback!
+
+To set a little context, even if everything is amazing, we always give feedback on how we think you could improve - there's no such thing as perfect code, and there's always room for improvement.
 
 | HTML, CSS, & JS                                          | Complete? |
 | -------------------------------------------------------- | :-------: |
@@ -31,3 +35,4 @@
 | Checkpoints: Command to push is `git push origin main` |     yes    |
 
 ---
+```
