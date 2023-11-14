@@ -1,4 +1,4 @@
-Hey Seid, welcome to week 1 feedback!
+Hey Langston, welcome to week 1 feedback!
 
 To set a little context, even if everything is amazing, we always give feedback on how we think you could improve - there's no such thing as perfect code, and there's always room for improvement.
 
@@ -30,7 +30,7 @@ To set a little context, even if everything is amazing, we always give feedback 
 | Checkpoints: Git version                               |     y     |
 | Checkpoints: Description of `git status` command       |     y     |
 | Checkpoints: Description of `git add .` command        |     y     |
-| Checkpoints: Command to push is `git push origin main` |     y     |
+| Checkpoints: Command to push is `git push origin main` |     n     |
 
 ---
 
@@ -50,7 +50,7 @@ To set a little context, even if everything is amazing, we always give feedback 
 
 ## Feedback
 
-Good Work! I'd recommend challenging yourself on assignments that may be easier to complete.
+Great Work! I'd recommend challenging yourself on assignments that may be easier to complete.
 
 - look into installing a code formatter like Prettier to help keep the indentation of the html elements consistent
 
