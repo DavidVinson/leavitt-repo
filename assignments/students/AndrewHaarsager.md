@@ -19,19 +19,6 @@ To set a little context, even if everything is amazing, we always give feedback 
 | JS: JS contains console log                              |    yes    |
 | Runs in browser without console errors                   |    yes    |
 
-| Checkpoints                                            |                                                  Complete?                                                  |
-| ------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------: |
-| Checkpoints: Listing files is `ls`                     |                                                     yes                                                     |
-| Checkpoints: Changing directories is `cd`              |                                                     yes                                                     |
-| Checkpoints: Changing to parent directory is `cd ..`   |                                                     yes                                                     |
-| Checkpoints: New folder is `mkdir`                     |                           yes/feedback: possibly use lowercase for cmds, ie mkdir                           |
-| Checkpoints: Description of `ls` command               |                                                     yes                                                     |
-| Checkpoints: Creating new file is `touch`              |                                                     yes                                                     |
-| Checkpoints: Git version                               |                                                     yes                                                     |
-| Checkpoints: Description of `git status` command       |                                                     yes                                                     |
-| Checkpoints: Description of `git add .` command        | yes/feedback: yes git add . stages a file in a dir, but more specifically it stages all the files in a dir. |
-| Checkpoints: Command to push is `git push origin main` |                                                     yes                                                     |
-
 ---
 
 ### Notes:
@@ -64,5 +51,22 @@ Great work!
 
 CSS: Put a border around your image:
 this would be a good use of combining css, ie {border: 5px solid black;}. all is good, just fyi
+
+---
+
+---
+
+| Checkpoints                                            |                                                  Complete?                                                  |
+| ------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------: |
+| Checkpoints: Listing files is `ls`                     |                                                     yes                                                     |
+| Checkpoints: Changing directories is `cd`              |                                                     yes                                                     |
+| Checkpoints: Changing to parent directory is `cd ..`   |                                                     yes                                                     |
+| Checkpoints: New folder is `mkdir`                     |                           yes/feedback: possibly use lowercase for cmds, ie mkdir                           |
+| Checkpoints: Description of `ls` command               |                                                     yes                                                     |
+| Checkpoints: Creating new file is `touch`              |                                                     yes                                                     |
+| Checkpoints: Git version                               |                                                     yes                                                     |
+| Checkpoints: Description of `git status` command       |                                                     yes                                                     |
+| Checkpoints: Description of `git add .` command        | yes/feedback: yes git add . stages a file in a dir, but more specifically it stages all the files in a dir. |
+| Checkpoints: Command to push is `git push origin main` |                                                     yes                                                     |
 
 ---
