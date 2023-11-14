@@ -11,13 +11,13 @@ To set a little context, even if everything is amazing, we always give feedback 
 | HTML: Create a footer                                    |     y     |
 | HTML: Put a `<p>` with your favorite quote in the footer |     y     |
 | CSS: Give your page a fun background color               |     y     |
-| CSS: Make the header and footer a different color        |     y     |
+| CSS: Make the header and footer a different color        |     n     |
 | CSS: Center the h1 with your name                        |     y     |
 | CSS: Make your p tag a different color and italic        |     y     |
 | CSS: Put a border around your image                      |     y     |
 | CSS: Change the font-family of your list                 |     y     |
-| JS: JS contains console log                              |     y     |
-| Runs in browser without console errors                   |     y     |
+| JS: JS contains console log                              |     n     |
+| Runs in browser without console errors                   |     n     |
 
 | Checkpoints                                            | Complete? |
 | ------------------------------------------------------ | :-------: |
@@ -50,8 +50,12 @@ To set a little context, even if everything is amazing, we always give feedback 
 
 ## Feedback
 
-Good Work! I'd recommend challenging yourself on assignments that may be easier to complete.
+Good Work!
+
+- look into installing a code formatter like Prettier to help keep the indentation of the html elements consistent
+- the hellWorld.js file had a console.log present, however, in the index.html file it needs to be placed in a `<script>` element in the `<head>` section; ex, `<script src="helloWorld.js"></script>`
+- this pic was great, but for it to be sourced correctly, `<img src="../Cornman.jpeg" height="300" width="300" />`. this is due to the location of the image file in respect to the index file.
 
 We also love giving feedback on things you are curious about, so feel free to throw questions you have into the comments on your assignment.
 
-Great work!
+Keep up the good work!
