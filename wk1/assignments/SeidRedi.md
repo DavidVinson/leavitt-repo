@@ -52,6 +52,8 @@ To set a little context, even if everything is amazing, we always give feedback 
 
 Good Work! I'd recommend challenging yourself on assignments that may be easier to complete.
 
+- look into installing a code formatter like Prettier to help keep the indentation of the html elements consistent
+
 We also love giving feedback on things you are curious about, so feel free to throw questions you have into the comments on your assignment.
 
 Great work!
