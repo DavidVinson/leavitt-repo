@@ -1,4 +1,3 @@
-```
 ---
 Hey Andrew, Welcome to week 1 feedback!
 
@@ -16,7 +15,7 @@ To set a little context, even if everything is amazing, we always give feedback 
 | CSS: Make the header and footer a different color        |     yes    |
 | CSS: Center the h1 with your name                        |     yes    |
 | CSS: Make your p tag a different color and italic        |     yes     |
-| CSS: Put a border around your image                      |     yes/feedback: this would be a good use of combining css, ie {border: 5px solid black;}. all is good, just fyi    |
+| CSS: Put a border around your image                      |     yes    |
 | CSS: Change the font-family of your list                 |     yes     |
 | JS: JS contains console log                              |     yes     |
 | Runs in browser without console errors                   |     yes    |
@@ -35,4 +34,36 @@ To set a little context, even if everything is amazing, we always give feedback 
 | Checkpoints: Command to push is `git push origin main` |     yes    |
 
 ---
-```
+
+### Notes:
+
+Notes on items above.
+
+---
+
+| General Items                  | Complete? |
+| ------------------------------ | :-------: |
+| The assignment repo was forked |    yes    |
+| The correct repo was turned in |    yes    |
+| GitHub config correct          |    yes    |
+| More than 1 commit             |    yes    |
+| Code is correctly formatted    |     -     |
+
+---
+
+### Notes:
+
+This is really good! I'd strongly recommend challenging yourself on assignments that may be easier to complete.
+
+We also love giving feedback on things you are curious about, so feel free to throw questions you have into the comments on your assignment.
+
+Great work!
+
+## Feedback
+
+---
+
+CSS: Put a border around your image:
+this would be a good use of combining css, ie {border: 5px solid black;}. all is good, just fyi
+
+---
