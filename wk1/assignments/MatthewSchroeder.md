@@ -11,7 +11,7 @@ To set a little context, even if everything is amazing, we always give feedback 
 | HTML: Create a footer                                    |     y     |
 | HTML: Put a `<p>` with your favorite quote in the footer |     y     |
 | CSS: Give your page a fun background color               |     y     |
-| CSS: Make the header and footer a different color        |     n     |
+| CSS: Make the header and footer a different color        |     y     |
 | CSS: Center the h1 with your name                        |     y     |
 | CSS: Make your p tag a different color and italic        |     y     |
 | CSS: Put a border around your image                      |     y     |
@@ -52,7 +52,6 @@ To set a little context, even if everything is amazing, we always give feedback 
 
 Good Work! Very well organized. I'd recommend challenging yourself on assignments that may be easier to complete.
 
-- just some minor attention to detail on the css portion, specifically the header and footer colors should be different; again, very minor, but details matter.
 - git commit -m "" will commit local changes w/ a message, but to "push" changes to github, you would `git push origin main`.
 
 We also love giving feedback on things you are curious about, so feel free to throw questions you have into the comments on your assignment.

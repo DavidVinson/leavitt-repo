@@ -11,7 +11,7 @@ To set a little context, even if everything is amazing, we always give feedback 
 | HTML: Create a footer                                    |     y     |
 | HTML: Put a `<p>` with your favorite quote in the footer |     y     |
 | CSS: Give your page a fun background color               |     y     |
-| CSS: Make the header and footer a different color        |     n     |
+| CSS: Make the header and footer a different color        |     y     |
 | CSS: Center the h1 with your name                        |     y     |
 | CSS: Make your p tag a different color and italic        |     y     |
 | CSS: Put a border around your image                      |     y     |
@@ -54,7 +54,7 @@ Everything looks great, but double check the location of the image in relation t
 
 Great Work! I'd recommend challenging yourself on assignments that may be easier to complete. Nice work incorporating classes from css file.
 
-- The combining of elements in a css file is a nice feature, but one detail was to make the background color of the header and footer a differnt color. Not a big deal.
+- The combining of elements in a css file is a nice use of shorthand
 
 We also love giving feedback on things you are curious about, so feel free to throw questions you have into the comments on your assignment.
 
