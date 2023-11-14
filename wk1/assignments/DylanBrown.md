@@ -6,7 +6,7 @@ To set a little context, even if everything is amazing, we always give feedback 
 | -------------------------------------------------------- | :-------: |
 | HTML: Change the title to "Hello World"                  |     y     |
 | HTML: Create an `<h1>` containing your name              |     y     |
-| HTML: Include an image                                   |     y     |
+| HTML: Include an image                                   |     n     |
 | HTML: Create an unordered list with 3 list items         |     y     |
 | HTML: Create a footer                                    |     y     |
 | HTML: Put a `<p>` with your favorite quote in the footer |     y     |
@@ -17,7 +17,7 @@ To set a little context, even if everything is amazing, we always give feedback 
 | CSS: Put a border around your image                      |     y     |
 | CSS: Change the font-family of your list                 |     y     |
 | JS: JS contains console log                              |     y     |
-| Runs in browser without console errors                   |     y     |
+| Runs in browser without console errors                   |     n     |
 
 | Checkpoints                                            | Complete? |
 | ------------------------------------------------------ | :-------: |
@@ -50,7 +50,9 @@ To set a little context, even if everything is amazing, we always give feedback 
 
 ## Feedback
 
-Good Work! Very well organized and commented code. I like the use of gradients for the css background colors. Keep pushing yourself on these early assignments.
+Good Work!
+
+- Images are a bugger! Ensure the project has access to your image, ex: `<img src="../images/MY-IMAGE.png" width="300" height="300">` otherwise the image will be missing. In the case that the image is missing, it is a good practice to add the `alt` property and give a value like `alt='my-image-pic'`, or something that describes the image.
 
 We also love giving feedback on things you are curious about, so feel free to throw questions you have into the comments on your assignment.
 
