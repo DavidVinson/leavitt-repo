@@ -17,7 +17,7 @@ To set a little context, even if everything is amazing, we always give feedback 
 | CSS: Put a border around your image                      |     y     |
 | CSS: Change the font-family of your list                 |     y     |
 | JS: JS contains console log                              |     y     |
-| Runs in browser without console errors                   |     n     |
+| Runs in browser without console errors                   |     y     |
 
 | Checkpoints                                            | Complete? |
 | ------------------------------------------------------ | :-------: |
@@ -59,3 +59,5 @@ Great Work! I'd recommend challenging yourself on assignments that may be easier
 We also love giving feedback on things you are curious about, so feel free to throw questions you have into the comments on your assignment.
 
 Great work!
+
+--Resubmit work completed! Getting to use the Google Chrome Developer tools is going to be a lifesaver going forward. Always check for errors that may come up before submitting your work. Good job making the corrections.
