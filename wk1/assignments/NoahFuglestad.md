@@ -16,8 +16,8 @@ To set a little context, even if everything is amazing, we always give feedback 
 | CSS: Make your p tag a different color and italic        |     y     |
 | CSS: Put a border around your image                      |     y     |
 | CSS: Change the font-family of your list                 |     y     |
-| JS: JS contains console log                              |     n     |
-| Runs in browser without console errors                   |     n     |
+| JS: JS contains console log                              |     y     |
+| Runs in browser without console errors                   |     y     |
 
 | Checkpoints                                            | Complete? |
 | ------------------------------------------------------ | :-------: |
@@ -59,3 +59,5 @@ Good Work!
 We also love giving feedback on things you are curious about, so feel free to throw questions you have into the comments on your assignment.
 
 Keep up the good work!
+
+--Resubmit work completed! Using the Developer tools in Google Chrome will be a lifesaver going forward. Always check/recheck code for errors. Nice work correcting your work.
