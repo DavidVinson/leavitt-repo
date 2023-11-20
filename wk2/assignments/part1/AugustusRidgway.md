@@ -8,7 +8,7 @@ Hey Augustus. General comments about the project.
 | Appropriate use of variable types: string, boolean, number               |     y     |
 | First Name assigned to String                                            |     y     |
 | Last Name assigned to String                                             |     y     |
-| Full Name assigned to string concatenation                               |     y     |
+| Full Name assigned to string concatenation                               |     n     |
 | Full Name logged                                                         |     y     |
 | Lucky Number assigned to Number                                          |     y     |
 | Name and Lucky Number sentence logged                                    |     y     |
@@ -32,6 +32,8 @@ Hey Augustus. General comments about the project.
 ---
 
 ### Notes:
+
+- #3: review string concatenation and string literals
 
 ---
 
