@@ -6,7 +6,7 @@ To set a little context, even if everything is amazing, we always give feedback 
 | -------------------------------------------------------- | :-------: |
 | HTML: Change the title to "Hello World"                  |     y     |
 | HTML: Create an `<h1>` containing your name              |     y     |
-| HTML: Include an image                                   |     n     |
+| HTML: Include an image                                   |     y     |
 | HTML: Create an unordered list with 3 list items         |     y     |
 | HTML: Create a footer                                    |     y     |
 | HTML: Put a `<p>` with your favorite quote in the footer |     y     |
@@ -17,7 +17,7 @@ To set a little context, even if everything is amazing, we always give feedback 
 | CSS: Put a border around your image                      |     y     |
 | CSS: Change the font-family of your list                 |     y     |
 | JS: JS contains console log                              |     y     |
-| Runs in browser without console errors                   |     n     |
+| Runs in browser without console errors                   |     y     |
 
 | Checkpoints                                            | Complete? |
 | ------------------------------------------------------ | :-------: |
@@ -57,3 +57,5 @@ Good Work!
 We also love giving feedback on things you are curious about, so feel free to throw questions you have into the comments on your assignment.
 
 Great work!
+
+--Resubmit work complete! Getting to use the developer tools in Google Chrome is something new, but these tools such as the Console tab will pay dividends as your code grows in complexity.
