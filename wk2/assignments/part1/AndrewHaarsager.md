@@ -41,14 +41,16 @@ Hey Andrew. General comments about the project.
 | The correct repo was turned in |     y     |
 | GitHub config correct          |     y     |
 | At least 2 commits             |     y     |
-| Code is correctly formatted    |     y     |
+| Code is correctly formatted    |     n     |
 
 ---
 
 ### Notes:
 
-Notes on items above.
+- The "aboutMe.js" file could use more consistent formatting.
 
 ### Feedback:
 
-Nice work! Having those automated test are wonderful for checking you work. Also, this was a good exercise in using comments to help describe what you want to do before writing any code.
+- Nice work! Having those automated test are wonderful for checking you work. Also, this was a good exercise in using comments to help describe what you want to do before writing any code.
+
+- Get into a habit of formatting your files. html, css, and now .js files. If you format the aboutMe.js file, you will notice ";" semi-colons added to end of statements, and also some spacing around if/else statements. This may seem nitpicky, but want you to develop good habits. Overall, the readability of code matters and the code was pretty good, but formatting a file should be as common as saving a file.
