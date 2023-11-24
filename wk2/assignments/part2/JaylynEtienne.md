@@ -4,12 +4,12 @@
 
 | Part 2 -- describe.js                                                             | Complete? |
 | --------------------------------------------------------------------------------- | :-------: |
-| Question 1 Description Accurate and correct value of console.log                  |     n     |
-| Question 2 Description Accurate and correct value of console.log                  |     n     |
-| Question 3 Description Accurate and correct value of console.log                  |     n     |
-| Question 4 Found swapped values of `colorOne` and `colorTwo`                      |     n     |
+| Question 1 Description Accurate and correct value of console.log                  |     y     |
+| Question 2 Description Accurate and correct value of console.log                  |     y     |
+| Question 3 Description Accurate and correct value of console.log                  |     y     |
+| Question 4 Found swapped values of `colorOne` and `colorTwo`                      |     y     |
 | Question 4 Found Missing Assignment of `colorTwo`                                 |     y     |
-| Question 5 Found logical error of OR instead of AND                               |     n     |
+| Question 5 Found logical error of OR instead of AND                               |     y     |
 | Question 6 Swapped console.log statements (initially logs 'no entry' not 'enter') |     y     |
 
 ---
@@ -32,3 +32,5 @@
 ### Feedback
 
 Please ask questions if you are having difficulty. I am being critical of the work submitted because I want you to get better. Fundamental concepts are being reinforced in tier 1 and tested with the exercises. Try to work through the concepts to understand not just to complete. I am here to help.
+
+### Resubmit work complete
