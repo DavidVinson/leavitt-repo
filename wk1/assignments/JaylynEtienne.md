@@ -16,20 +16,20 @@ To set a little context, even if everything is amazing, we always give feedback 
 | CSS: Make your p tag a different color and italic        |     y     |
 | CSS: Put a border around your image                      |     y     |
 | CSS: Change the font-family of your list                 |     y     |
-| JS: JS contains console log                              |     n     |
+| JS: JS contains console log                              |     y     |
 | Runs in browser without console errors                   |     y     |
 
 | Checkpoints                                            | Complete? |
 | ------------------------------------------------------ | :-------: |
 | Checkpoints: Listing files is `ls`                     |     y     |
 | Checkpoints: Changing directories is `cd`              |     y     |
-| Checkpoints: Changing to parent directory is `cd ..`   |     n     |
+| Checkpoints: Changing to parent directory is `cd ..`   |     y     |
 | Checkpoints: New folder is `mkdir`                     |     y     |
 | Checkpoints: Description of `ls` command               |     y     |
-| Checkpoints: Creating new file is `touch`              |     n     |
+| Checkpoints: Creating new file is `touch`              |     y     |
 | Checkpoints: Git version                               |     y     |
 | Checkpoints: Description of `git status` command       |     y     |
-| Checkpoints: Description of `git add .` command        |     n     |
+| Checkpoints: Description of `git add .` command        |     y     |
 | Checkpoints: Command to push is `git push origin main` |     n     |
 
 ---
@@ -46,7 +46,7 @@ It may help taking another look into the commands. It may take a little more pra
 | The correct repo was turned in |     y     |
 | GitHub config correct          |     y     |
 | More than 1 commit             |     y     |
-| Code is correctly formatted    |     n     |
+| Code is correctly formatted    |     y     |
 
 ---
 
@@ -62,3 +62,7 @@ Overall, really good work! It will take some more practice, but that is what it 
 We also love giving feedback on things you are curious about, so feel free to throw questions you have into the comments on your assignment.
 
 Great work!
+
+### Resubmitted work
+
+- nice work on working through the errors. learning the command line and git commands gets better with practice!
