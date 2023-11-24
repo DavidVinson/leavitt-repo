@@ -8,7 +8,7 @@ Hey Augustus. General comments about the project.
 | Appropriate use of variable types: string, boolean, number               |     y     |
 | First Name assigned to String                                            |     y     |
 | Last Name assigned to String                                             |     y     |
-| Full Name assigned to string concatenation                               |     n     |
+| Full Name assigned to string concatenation                               |     y     |
 | Full Name logged                                                         |     y     |
 | Lucky Number assigned to Number                                          |     y     |
 | Name and Lucky Number sentence logged                                    |     y     |
@@ -43,7 +43,7 @@ Hey Augustus. General comments about the project.
 | The correct repo was turned in |     y     |
 | GitHub config correct          |     y     |
 | At least 2 commits             |     y     |
-| Code is correctly formatted    |     n     |
+| Code is correctly formatted    |     y     |
 
 ---
 
@@ -54,3 +54,5 @@ Hey Augustus. General comments about the project.
 ### Feedback:
 
 - Get into a habit of formatting your files. html, css, and now .js files. If you format the aboutMe.js file, you will notice ";" semi-colons added to end of statements, and also some spacing around if/else statements. This may seem nitpicky, but want you to develop good habits. Overall, the readability of code matters and the code was pretty good, but formatting a file should be as common as saving a file.
+
+### Resubmitted work complete
