@@ -18,10 +18,10 @@ Hey Noah. General comments about the project.
 | Friends Pets assigned to Number                                          |     y     |
 | Add two to Pets                                                          |     y     |
 | Allowed Pets assigned to a constant                                      |     y     |
-| Correctly log based on adventurous boolean                               |     n     |
+| Correctly log based on adventurous boolean                               |     y     |
 | Runs in browser without console errors                                   |     y     |
 | "Roll the dice" conditional includes lucky number and adventurous checks |     y     |
-| Pets conditional checks less than, equal and greater than                |     n     |
+| Pets conditional checks less than, equal and greater than                |     y     |
 | OPTIONAL: Questions in HTML                                              |     -     |
 | STRETCH: Correctly log the greater value (pets or friends pets)          |     y     |
 | STRETCH: Correctly log pets or friends pets if they are equal            |     y     |
@@ -66,7 +66,7 @@ Hey Noah. General comments about the project.
 | The correct repo was turned in |     y     |
 | GitHub config correct          |     y     |
 | At least 2 commits             |     y     |
-| Code is correctly formatted    |     n     |
+| Code is correctly formatted    |     y     |
 
 ---
 
@@ -79,3 +79,7 @@ Notes on items above.
 - Good Work! Way to expand on creating variables and logging them. This will habit will pay off when the code gets more complex. I feel as though it was becoming clearer as you worked through the material.
 
 - Get into a habit of formatting your files. html, css, and now .js files. If you format the aboutMe.js file, you will notice ";" semi-colons added to end of statements, and also some spacing around if/else statements. This may seem nitpicky, but want you to develop good habits. Overall, the readability of code matters and the code was pretty good, but formatting a file should be as common as saving a file. VS Code built in formatter: `Shift+Option+F`
+
+### Resubmit work complete
+
+- Nice work
