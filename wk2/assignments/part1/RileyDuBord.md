@@ -82,10 +82,10 @@ Hey Riley. General comments about the project.
 | "Roll the dice" conditional includes lucky number and adventurous checks |     y     |
 | Pets conditional checks less than, equal and greater than                |     y     |
 | OPTIONAL: Questions in HTML                                              |     -     |
-| STRETCH: Correctly log the greater value (pets or friends pets)          |     -     |
-| STRETCH: Correctly log pets or friends pets if they are equal            |     -     |
-| STRETCH: Conditionals written with correct syntax                        |     -     |
-| STRETCH: Switch statement logs the correct value                         |     -     |
+| STRETCH: Correctly log the greater value (pets or friends pets)          |     y     |
+| STRETCH: Correctly log pets or friends pets if they are equal            |     y     |
+| STRETCH: Conditionals written with correct syntax                        |     y     |
+| STRETCH: Switch statement logs the correct value                         |     y     |
 | STRETCH: Ternary written with correct syntax and logic                   |     -     |
 
 ---
