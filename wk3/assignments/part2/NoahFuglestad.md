@@ -8,7 +8,7 @@
 | 1.b For loop logs from 3 to 5               |     y     |
 | 1.c For loop logs even numbers from 2 to 10 |     y     |
 | 1.d **STRETCH** For loop logs from 5 to 0   |     y     |
-| 2.a For of loop logs all stars              |     n     |
+| 2.a For of loop logs all stars              |     y     |
 | 3.a While loop logs all stars               |     y     |
 | 3.b While loop from 0 to 5                  |     y     |
 | 3.c While loop logs from 10 to 5            |     y     |
@@ -22,7 +22,7 @@
 | General Items                       | Complete? |
 | ----------------------------------- | :-------: |
 | GitHub config correct               |     y     |
-| At least 3 commits                  |     n     |
+| At least 3 commits                  |     y     |
 | Code is correctly formatted         |     y     |
 | Appropriate amount of code comments |     y     |
 
@@ -33,3 +33,5 @@
 - Formatting is looking good
 
 - Nice work with all the loops! Question 2a was to be written as a 'for...of' loop.
+
+## Resubmit work complete

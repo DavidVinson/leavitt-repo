@@ -11,8 +11,8 @@
 | 3.c STRETCH Logged last item (length y 1) in animal array      |     y     |
 | 4.a Used `.push()` to add item to end of array                 |     y     |
 | 4.b Used `.unshift()` to add item to beginning of array        |     y     |
-| 4.c Used `.pop()` to remove the item from end of array         |     n     |
-| 4.d Used `.shift()` to remove the item from beginning of array |     n     |
+| 4.c Used `.pop()` to remove the item from end of array         |     y     |
+| 4.d Used `.shift()` to remove the item from beginning of array |     y     |
 | 5.a STRETCH Replaced the second item in the gem array          |     y     |
 | 5.b STRETCH Sorted and reversed the gem array                  |     y     |
 | 5.c STRETCH Joined the gem array into a string                 |     y     |
@@ -41,3 +41,5 @@
 - Formatting is looking good!
 
 - Take another look at the array methods used in question 4 and make corrections. If you have any questions, bring them to the video call this week, or you can reach out to me directly.
+
+## Resubmit work complete

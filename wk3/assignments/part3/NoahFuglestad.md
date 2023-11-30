@@ -10,7 +10,7 @@
 | 1. Variable of partsNeeded and value of 40 created                             |     y     |
 | 2. Array of supplyChanges of numbers 3, 5, -6, 0, 7, 11                        |     y     |
 | 3. Log of supplyChanges[1]                                                     |     y     |
-| 4. .pop() correctly used and logged the removed item                           |     n     |
+| 4. .pop() correctly used and logged the removed item                           |     y     |
 | 5. .push() the value 25 to supplyChanges                                       |     y     |
 | 6A. For Loop over each item in supplyChanges                                   |     y     |
 | 6B. Correctly Logs Positive Numbers                                            |     y     |
@@ -42,7 +42,7 @@
 | General Items                       | Complete? |
 | ----------------------------------- | :-------: |
 | GitHub config correct               |     y     |
-| At least 3 commits                  |     n     |
+| At least 3 commits                  |     y     |
 | Code is correctly formatted         |     y     |
 | Appropriate amount of code comments |     y     |
 
@@ -57,3 +57,5 @@
 - Very good comments about how to handle problem #9, specifically how you describe the variables and their purpose. These types of notes/comments will help when you have to return to the code later and need a reminder of what the code is expected to do.
 
 - Nice work!
+
+## Resubmit work complete
