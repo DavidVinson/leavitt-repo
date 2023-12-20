@@ -22,7 +22,10 @@ Hey Andrew. General comments about the project.
 ### Notes:
 
 - Pay attention to opening and closing tags; can be easily missed especially if wrapped in a template string literal
-  - '''<span>text</span>'''
+
+  ```html
+  <span>text</span>
+  ```
 
 ---
 
